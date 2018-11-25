@@ -290,7 +290,7 @@ you can look at the equations here https://cs184.org/article/25
 <img src="https://cs184.eecs.berkeley.edu/cs184_sp17_content/article_images/25_2.jpg" width="800px" />
 </center></p>
 
-<h2>Part 4: Handling self-collisions</h2>
+<h2>Part 4: Handling self-collisions (BONUS)</h2>
 
 <p>One thing that our implementation currently fails to handle is cloth self-collision. As a result, if we have a scene in which the cloth falls on itself or otherwise folds on itself, the cloth will clip through and behave strangely. You may have seen this type of issue before in video games.</p>
 
@@ -336,7 +336,7 @@ you can look at the equations here https://cs184.org/article/25
 <img src="https://cs184.eecs.berkeley.edu/cs184_sp17_content/article_images/25_3.jpg" width="800px" />
 </center></p>
 
-<h2>Part 5: Extra credit: Additional cloth simulation features!</h2>
+<h2>Part 5: Additional cloth simulation features! (BONUS)</h2>
 
 <p>For this Assignment, try adding some additional technical features to further improve your cloth simulation! Feel free to browse recently published research papers, or check out some of the following suggested ideas:</p>
 
