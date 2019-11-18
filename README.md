@@ -12,7 +12,7 @@
 
 <h2>Deadline</h2>
 
-<p>This Assignment is due on Tuesday, 4th December at 11:55pm.</p>
+<p>This Assignment is due on Monday, 25th December at 11:55pm.</p>
 
 <h2>Structure</h2>
 
